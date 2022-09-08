@@ -1,0 +1,20 @@
+# Específico a NetBeans #
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+build.xml
+manifest.mf
+
+
+# Archicos Class #
+*.class
+
+# Otros #
+*.jar
+*.war
+*.ear
+
